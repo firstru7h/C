@@ -1,4 +1,4 @@
 C
 =
 
-Assorted C assignments
+Assorted C programs
